@@ -8,7 +8,7 @@
             "Software Developer",
             "Blockchain Enthusiast"
         ],
-        "resumeLink": "https://drive.google.com/file/d/1lvkXbADZ4HvIvd6hK3rnLQUP6WOz6nog/view?usp=sharing",
+        "resumeLink": "https://drive.google.com/file/d/1dYkvN1S7qi6vc9UYG4M5zf_k99P5asoz/view?usp=sharing",
         "skills": [
             "/icons/JavaScript.png",
             "/icons/React.png",
@@ -37,7 +37,7 @@
                     "Docker"
                 ],
                 "category" : "React",
-                "image": "/images/projects/celloraimage.jpg",
+                "image": "/images/projects/dashboardbuilder.jpg",
                 "liveLink": "",
                 "githubLink": "https://github.com/RohitDamerr/Cellora"
             },
@@ -53,7 +53,7 @@
                     "Vercel"
                 ],
                 "category" : "React.js",
-                "image": "/images/projects/Codecollab.png",
+                "image": "/images/projects/codingimage.jpg",
                 "liveLink": "https://my-code-collab.vercel.app/",
                 "githubLink": "https://github.com/RohitDamerr/code_collab"
             },
@@ -101,13 +101,12 @@
                 ],
                 "category" : "Web Development",
                 "image": "/images/projects/videoconfig.jpg",
-                "liveLink": "",
-                "githubLink": "https://github.com/ShahVandit8/nft_lending_contracts"
+                "githubLink": "https://github.com/RohitDamerr/VidRooms"
             },
             {
-                "title": "Learning Management System",
-                "type": "The Digital Workstation",
-                "description": "LMS for an offline learning institute, facilitating student enrollment, progress tracking, and instructor interaction.",
+                "title": "SafeForSure",
+                "type": "Healthcare Management System",
+                "description": "A comprehensive Health Management System (HMS) designed to streamline healthcare operations, including patient records, appointment scheduling, billing, and reporting, enhancing efficiency and patient care.",
                 "techStack": [
                     "React",
                     "Bootstrap",
@@ -117,42 +116,8 @@
                     "MongoDB"
                 ],
                 "category" : "Full Stack",
-                "image": "/images/projects/LMS.png",
-                "liveLink": "https://thedigitalworkstation.netlify.app/",
-                "githubLink": ""
-            },
-            {
-                "title": "Cafe Management System",
-                "type": "78° Degree Cafe",
-                "description": "CMS for local cafe to streamline its online ordering system by integrated QR codes for Tables, Managing Orders, Kitchen Tickets and Customer Management.",
-                "techStack": [
-                    "React",
-                    "Bootstrap",
-                    "JavaScript",
-                    "Node.js",
-                    "Express.js",
-                    "MongoDB"
-                ],
-                "category" : "Full Stack",
-                "image": "/images/projects/CMS.png",
-                "liveLink": "https://78degreescafe.netlify.app/",
-                "githubLink": ""
-            },
-            {
-                "title": "Insurance Agency Website",
-                "type": "Business Website",
-                "description": "AP Life Secure - A Business Wesbite for Insurance Company, It was a Freelance Project. Looked after development, deployment and SEO.",
-                "techStack": [
-                    "Nextjs",
-                    "React",
-                    "Bootstrap",
-                    "JavaScript",
-                    "Vercel"
-                ],
-                "category" : "Nextjs",
-                "image": "/images/projects/APLIFESECURE.png",
-                "liveLink": "https://aplifesecure.ca",
-                "githubLink": ""
+                "image": "/images/projects/healthcareimage.jpg",
+                "githubLink": "https://github.com/RohitDamerr/HealthMangager"
             },
             {
                 "title": "Developer Portfolio Website",
@@ -166,8 +131,8 @@
                 ],
                 "category" : "React",
                 "image": "/images/projects/Portfoliov1.png",
-                "liveLink": "https://vandit-shah.vercel.app/",
-                "githubLink": "https://github.com/ShahVandit8/portfolio"
+                "liveLink": "https://rohitdamer.vercel.app/",
+                "githubLink": "https://github.com/Rohitdamerr/myportfolio"
             }
         ],
         "about": {
