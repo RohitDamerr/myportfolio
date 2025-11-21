@@ -14,7 +14,7 @@ const AboutMe = () => {
                 <div className="flex flex-col md:flex-row">
                     <div className="p-0 md:p-6 w-full xl:w-34/100">
                         <Image
-                            src="/images/myimage.png"
+                            src="/images/rohitimg.jpg"
                             width={0}
                             height={0}
                             sizes="100vw"
