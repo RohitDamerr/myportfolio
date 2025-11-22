@@ -42,12 +42,12 @@ export default function ProjectsPage() {
                             projects.map((project) => ({
                                 '@context': 'https://schema.org',
                                 '@type': 'ImageObject',
-                                url: `https://vandit-shah.me${project.image}`,
+                                url: `https://rohitdamer.vercel.app${project.image}`,
                                 name: `${project.title} Project Image`,
                                 caption: `${project.title} by Rohit Damer - ${project.category} Project`,
                                 associatedMedia: {
                                     '@type': 'WebPage',
-                                    url: 'https://vandit-shah.me/projects',
+                                    url: 'https://rohitdamer.vercel.app/projects',
                                 },
                             }))
                         ),
